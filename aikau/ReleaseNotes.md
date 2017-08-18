@@ -3,7 +3,12 @@ Aikau 1.0.101 Release Notes
 
 IMPORTANT
 ---
-From version 1.0.96 onwards there is a new `aikau` package provided. The code in this package is intended to form the basis of a 1.1 version of Aikau (which will be the first release to contain breaking changes). The contents of this package at **not** subject to the same backwards compatibility rules as the `alfresco` package. Instead this will be a collaboration space where code can be changed with breaking changes up until the point where 1.1 is released. You should not use anything from the `aikau` package in production until 1.1 is released. There is no date yet determined for the 1.1 release, 1.0.x releases will continue as always as we prepare for it.
+From version 1.0.96 onwards there is a new `aikau` package provided. The code in this package is intended to form the 
+basis of a 1.1 version of Aikau (which will be the first release to contain breaking changes). The contents of this 
+package at **not** subject to the same backwards compatibility rules as the `alfresco` package. Instead this will be a 
+collaboration space where code can be changed with breaking changes up until the point where 1.1 is released. You should 
+not use anything from the `aikau` package in production until 1.1 is released. There is no date yet determined for the 
+1.1 release, 1.0.x releases will continue as always as we prepare for it.
 
 Current deprecations:
 ---

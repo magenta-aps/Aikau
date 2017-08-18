@@ -29,7 +29,7 @@
                            <type>jar</type>
                            <overWrite>true</overWrite>
                            <excludes>**/*_de.properties,**/*_en.properties,**/*_es.properties,**/*_fr.properties,**/*_it.properties,**/*_ja.properties,**/*_nb.properties,**/*_nl.properties,**/*_pt_BR.properties,**/*_ru.properties,**/*_zh_CN.properties</excludes>
-                           <includes>**/*.properties</includes>
+                           <includes>**/*_da.properties</includes>
                            <outputDirectory>${basedir}/target/classes</outputDirectory>
                         </artifactItem>
                      </artifactItems>

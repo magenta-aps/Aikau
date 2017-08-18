@@ -20,3 +20,4 @@
 /src/test/vagrant/.vagrant/
 alfresco.log.*
 /bin/
+*.iml

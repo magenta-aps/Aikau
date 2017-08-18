@@ -111,10 +111,10 @@
 
    <modules>
       <module>aikau</module>
-      <module>aikau-archetype</module>
+      <!--<module>aikau-archetype</module>-->
       <module>aikau-additional-languages</module>
-      <module>aikau-sandpit-application</module>
-      <module>aikau-forms-runtime-support</module>
+      <!--<module>aikau-sandpit-application</module>-->
+      <!--<module>aikau-forms-runtime-support</module>-->
    </modules>
 
 </project>
